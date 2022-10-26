@@ -1,0 +1,12 @@
+h1.display-4 {
+   font-weight: 500;
+   font-size: 2.5rem;
+}
+
+p.lead {
+     font-weight: 400;
+}
+
+h5.card-title {
+   background-color:#fff387;
+}
